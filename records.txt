@@ -1,0 +1,8 @@
+mmd: 400
+ahmad: 225
+fateme: 588
+sara: 145
+fateme: 300
+faride: 588
+faeze: 555
+faeze: 526
